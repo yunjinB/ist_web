@@ -46,7 +46,7 @@ submitButton.addEventListener('click', () => {
 // 꽃 생성
 function createFlower(entry) {
   const flower = document.createElement('img');
-  flower.src = '/images/flower.1.png';
+  flower.src = '/images/flower.png';
   flower.className = 'flower';
   flower.dataset.id = entry.id;
 

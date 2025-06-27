@@ -113,7 +113,7 @@ body {
 .letter-wrapper {
   width: 40vw;
   height: 80vh;
-  background-image: url('/images/letter.1.png');
+  background-image: url('/images/letter.png');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -159,7 +159,7 @@ body {
 }
 
 #read-box {
-  background-image: url('/images/letter.1.png');
+  background-image: url('/images/letter.png');
   background-size: cover;
   background-position: center;
   padding: 30px 20px;
